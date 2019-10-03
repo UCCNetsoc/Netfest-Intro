@@ -1,0 +1,22 @@
+{
+  "name": "hacktoberfest-intro",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-Jefferies/Hacktoberfest-Intro.git"
+  },
+  "author": "James Cotter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Michael-Jefferies/Hacktoberfest-Intro/issues"
+  },
+  "homepage": "https://github.com/Michael-Jefferies/Hacktoberfest-Intro#readme",
+  "dependencies": {
+    "grunt": "^1.0.4"
+  }
+}
