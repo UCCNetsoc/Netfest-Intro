@@ -1,3 +1,31 @@
-# Welcome to the Gamer Club
+```-=[ fork ]=-  12/98
 
-Checkout [https://uccnetworkingsociety.github.io/Netfest-Intro/](https://uccnetworkingsociety.github.io/Netfest-Intro/)
+ |\ /\ /\ /|
+ || || || ||
+ || || || ||
+ || || || ||
+ || || || ||
+ || || || ||
+ || || || ||
+ |\_||_||_/|
+ |         |
+  \       /
+   \     /
+    |   |
+    |   |
+    |   |
+    |   |
+    |   |
+    |   |
+    |   |
+    |   |
+   /     \
+   |     |
+   |     |
+   |     |
+   |     |
+   |     |
+   |     |
+   |     |
+   \     /
+    '._.'
